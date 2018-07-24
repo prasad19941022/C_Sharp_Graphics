@@ -1,0 +1,12 @@
+D:\Documents\Projects\Visual Studio\Vesak_Triangle\Vesak_Triangle\bin\Debug\Vesak_Triangle.exe.config
+D:\Documents\Projects\Visual Studio\Vesak_Triangle\Vesak_Triangle\bin\Debug\Vesak_Triangle.exe
+D:\Documents\Projects\Visual Studio\Vesak_Triangle\Vesak_Triangle\bin\Debug\Vesak_Triangle.pdb
+D:\Documents\Projects\Visual Studio\Vesak_Triangle\Vesak_Triangle\obj\Debug\Vesak_Triangle.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio\Vesak_Triangle\Vesak_Triangle\obj\Debug\Vesak_Triangle.Form1.resources
+D:\Documents\Projects\Visual Studio\Vesak_Triangle\Vesak_Triangle\obj\Debug\Vesak_Triangle.Properties.Resources.resources
+D:\Documents\Projects\Visual Studio\Vesak_Triangle\Vesak_Triangle\obj\Debug\Vesak_Triangle.csproj.GenerateResource.Cache
+D:\Documents\Projects\Visual Studio\Vesak_Triangle\Vesak_Triangle\obj\Debug\Vesak_Triangle.exe
+D:\Documents\Projects\Visual Studio\Vesak_Triangle\Vesak_Triangle\obj\Debug\Vesak_Triangle.pdb
+D:\Developing\Visual Studio\Vesak_Triangle\Vesak_Triangle\bin\Debug\Vesak_Triangle.exe.config
+D:\Developing\Visual Studio\Vesak_Triangle\Vesak_Triangle\obj\Debug\Vesak_Triangle.exe
+D:\Developing\Visual Studio\Vesak_Triangle\Vesak_Triangle\obj\Debug\Vesak_Triangle.pdb

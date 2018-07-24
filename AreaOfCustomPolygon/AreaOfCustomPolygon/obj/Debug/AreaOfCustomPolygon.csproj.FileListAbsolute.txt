@@ -1,0 +1,9 @@
+D:\Documents\Projects\Visual Studio\AreaOfCustomPolygon\AreaOfCustomPolygon\bin\Debug\AreaOfCustomPolygon.exe.config
+D:\Documents\Projects\Visual Studio\AreaOfCustomPolygon\AreaOfCustomPolygon\bin\Debug\AreaOfCustomPolygon.exe
+D:\Documents\Projects\Visual Studio\AreaOfCustomPolygon\AreaOfCustomPolygon\bin\Debug\AreaOfCustomPolygon.pdb
+D:\Documents\Projects\Visual Studio\AreaOfCustomPolygon\AreaOfCustomPolygon\obj\Debug\AreaOfCustomPolygon.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio\AreaOfCustomPolygon\AreaOfCustomPolygon\obj\Debug\AreaOfCustomPolygon.Form1.resources
+D:\Documents\Projects\Visual Studio\AreaOfCustomPolygon\AreaOfCustomPolygon\obj\Debug\AreaOfCustomPolygon.Properties.Resources.resources
+D:\Documents\Projects\Visual Studio\AreaOfCustomPolygon\AreaOfCustomPolygon\obj\Debug\AreaOfCustomPolygon.csproj.GenerateResource.Cache
+D:\Documents\Projects\Visual Studio\AreaOfCustomPolygon\AreaOfCustomPolygon\obj\Debug\AreaOfCustomPolygon.exe
+D:\Documents\Projects\Visual Studio\AreaOfCustomPolygon\AreaOfCustomPolygon\obj\Debug\AreaOfCustomPolygon.pdb

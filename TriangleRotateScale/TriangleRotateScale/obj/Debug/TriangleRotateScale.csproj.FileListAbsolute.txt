@@ -1,0 +1,9 @@
+D:\Documents\Projects\Visual Studio\TriangleRotateScale\TriangleRotateScale\bin\Debug\TriangleRotateScale.exe.config
+D:\Documents\Projects\Visual Studio\TriangleRotateScale\TriangleRotateScale\bin\Debug\TriangleRotateScale.exe
+D:\Documents\Projects\Visual Studio\TriangleRotateScale\TriangleRotateScale\bin\Debug\TriangleRotateScale.pdb
+D:\Documents\Projects\Visual Studio\TriangleRotateScale\TriangleRotateScale\obj\Debug\TriangleRotateScale.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio\TriangleRotateScale\TriangleRotateScale\obj\Debug\TriangleRotateScale.Form1.resources
+D:\Documents\Projects\Visual Studio\TriangleRotateScale\TriangleRotateScale\obj\Debug\TriangleRotateScale.Properties.Resources.resources
+D:\Documents\Projects\Visual Studio\TriangleRotateScale\TriangleRotateScale\obj\Debug\TriangleRotateScale.csproj.GenerateResource.Cache
+D:\Documents\Projects\Visual Studio\TriangleRotateScale\TriangleRotateScale\obj\Debug\TriangleRotateScale.exe
+D:\Documents\Projects\Visual Studio\TriangleRotateScale\TriangleRotateScale\obj\Debug\TriangleRotateScale.pdb

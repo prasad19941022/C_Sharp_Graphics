@@ -1,0 +1,18 @@
+D:\Documents\Projects\Visual Studio\MyClock\MyClock\bin\Debug\MyClock.exe.config
+D:\Documents\Projects\Visual Studio\MyClock\MyClock\bin\Debug\MyClock.exe
+D:\Documents\Projects\Visual Studio\MyClock\MyClock\bin\Debug\MyClock.pdb
+D:\Documents\Projects\Visual Studio\MyClock\MyClock\obj\Debug\MyClock.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio\MyClock\MyClock\obj\Debug\MyClock.Form1.resources
+D:\Documents\Projects\Visual Studio\MyClock\MyClock\obj\Debug\MyClock.Properties.Resources.resources
+D:\Documents\Projects\Visual Studio\MyClock\MyClock\obj\Debug\MyClock.csproj.GenerateResource.Cache
+D:\Documents\Projects\Visual Studio\MyClock\MyClock\obj\Debug\MyClock.exe
+D:\Documents\Projects\Visual Studio\MyClock\MyClock\obj\Debug\MyClock.pdb
+D:\Documents\Projects\Visual Studio\# MyClock\MyClock\bin\Debug\MyClock.exe.config
+D:\Documents\Projects\Visual Studio\# MyClock\MyClock\obj\Debug\MyClock.exe
+D:\Documents\Projects\Visual Studio\# MyClock\MyClock\obj\Debug\MyClock.pdb
+D:\Documents\Projects\Visual Studio\# MyClock\MyClock\obj\Debug\MyClock.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio\# MyClock\MyClock\obj\Debug\MyClock.Form1.resources
+D:\Documents\Projects\Visual Studio\# MyClock\MyClock\obj\Debug\MyClock.Properties.Resources.resources
+D:\Documents\Projects\Visual Studio\# MyClock\MyClock\obj\Debug\MyClock.csproj.GenerateResource.Cache
+D:\Documents\Projects\Visual Studio\# MyClock\MyClock\bin\Debug\MyClock.exe
+D:\Documents\Projects\Visual Studio\# MyClock\MyClock\bin\Debug\MyClock.pdb

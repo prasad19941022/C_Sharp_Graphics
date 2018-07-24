@@ -1,0 +1,8 @@
+mercury	0.5	dark grey
+venus	-2	brown
+earth	365	blue
+mars	669	red brown
+jupiter	10476	brown
+saturn	24491	gray
+uranus	-42718	light green
+neptune	89666	uniform blue

@@ -1,0 +1,18 @@
+D:\Documents\Projects\Visual Studio\SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe.config
+D:\Documents\Projects\Visual Studio\SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe
+D:\Documents\Projects\Visual Studio\SolarSystem\SolarSystem\bin\Debug\SolarSystem.pdb
+D:\Documents\Projects\Visual Studio\SolarSystem\SolarSystem\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio\SolarSystem\SolarSystem\obj\Debug\SolarSystem.Form1.resources
+D:\Documents\Projects\Visual Studio\SolarSystem\SolarSystem\obj\Debug\SolarSystem.Properties.Resources.resources
+D:\Documents\Projects\Visual Studio\SolarSystem\SolarSystem\obj\Debug\SolarSystem.csproj.GenerateResource.Cache
+D:\Documents\Projects\Visual Studio\SolarSystem\SolarSystem\obj\Debug\SolarSystem.exe
+D:\Documents\Projects\Visual Studio\SolarSystem\SolarSystem\obj\Debug\SolarSystem.pdb
+D:\Documents\Projects\Visual Studio\# SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe.config
+D:\Documents\Projects\Visual Studio\# SolarSystem\SolarSystem\obj\Debug\SolarSystem.exe
+D:\Documents\Projects\Visual Studio\# SolarSystem\SolarSystem\obj\Debug\SolarSystem.pdb
+D:\Documents\Projects\Visual Studio\# SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe
+D:\Documents\Projects\Visual Studio\# SolarSystem\SolarSystem\bin\Debug\SolarSystem.pdb
+D:\Documents\Projects\Visual Studio\# SolarSystem\SolarSystem\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio\# SolarSystem\SolarSystem\obj\Debug\SolarSystem.Form1.resources
+D:\Documents\Projects\Visual Studio\# SolarSystem\SolarSystem\obj\Debug\SolarSystem.Properties.Resources.resources
+D:\Documents\Projects\Visual Studio\# SolarSystem\SolarSystem\obj\Debug\SolarSystem.csproj.GenerateResource.Cache

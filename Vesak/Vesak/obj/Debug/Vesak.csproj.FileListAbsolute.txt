@@ -1,0 +1,27 @@
+C:\Users\bcs2\Desktop\sc9537\C#\Vesak\Vesak\bin\Debug\Vesak.exe.config
+C:\Users\bcs2\Desktop\sc9537\C#\Vesak\Vesak\bin\Debug\Vesak.exe
+C:\Users\bcs2\Desktop\sc9537\C#\Vesak\Vesak\bin\Debug\Vesak.pdb
+C:\Users\bcs2\Desktop\sc9537\C#\Vesak\Vesak\obj\Debug\Vesak.csprojResolveAssemblyReference.cache
+C:\Users\bcs2\Desktop\sc9537\C#\Vesak\Vesak\obj\Debug\Vesak.Form1.resources
+C:\Users\bcs2\Desktop\sc9537\C#\Vesak\Vesak\obj\Debug\Vesak.Properties.Resources.resources
+C:\Users\bcs2\Desktop\sc9537\C#\Vesak\Vesak\obj\Debug\Vesak.csproj.GenerateResource.Cache
+C:\Users\bcs2\Desktop\sc9537\C#\Vesak\Vesak\obj\Debug\Vesak.exe
+C:\Users\bcs2\Desktop\sc9537\C#\Vesak\Vesak\obj\Debug\Vesak.pdb
+D:\Documents\Projects\Visual Studio\Vesak\Vesak\bin\Debug\Vesak.exe.config
+D:\Documents\Projects\Visual Studio\Vesak\Vesak\obj\Debug\Vesak.exe
+D:\Documents\Projects\Visual Studio\Vesak\Vesak\obj\Debug\Vesak.pdb
+D:\Documents\Projects\Visual Studio\Vesak\Vesak\bin\Debug\Vesak.exe
+D:\Documents\Projects\Visual Studio\Vesak\Vesak\bin\Debug\Vesak.pdb
+D:\Documents\Projects\Visual Studio\Vesak\Vesak\obj\Debug\Vesak.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio\Vesak\Vesak\obj\Debug\Vesak.Form1.resources
+D:\Documents\Projects\Visual Studio\Vesak\Vesak\obj\Debug\Vesak.Properties.Resources.resources
+D:\Documents\Projects\Visual Studio\Vesak\Vesak\obj\Debug\Vesak.csproj.GenerateResource.Cache
+D:\Developing\Visual Studio\Vesak\Vesak\bin\Debug\Vesak.exe.config
+D:\Developing\Visual Studio\Vesak\Vesak\obj\Debug\Vesak.exe
+D:\Developing\Visual Studio\Vesak\Vesak\obj\Debug\Vesak.pdb
+D:\Developing\Visual Studio\Vesak\Vesak\bin\Debug\Vesak.exe
+D:\Developing\Visual Studio\Vesak\Vesak\bin\Debug\Vesak.pdb
+D:\Developing\Visual Studio\Vesak\Vesak\obj\Debug\Vesak.csprojResolveAssemblyReference.cache
+D:\Developing\Visual Studio\Vesak\Vesak\obj\Debug\Vesak.Form1.resources
+D:\Developing\Visual Studio\Vesak\Vesak\obj\Debug\Vesak.Properties.Resources.resources
+D:\Developing\Visual Studio\Vesak\Vesak\obj\Debug\Vesak.csproj.GenerateResource.Cache

@@ -1,0 +1,46 @@
+C:\Users\bcs2\Desktop\sc9537\C#\CreatePolygon\CreatePolygon\bin\Debug\CreatePolygon.exe.config
+C:\Users\bcs2\Desktop\sc9537\C#\CreatePolygon\CreatePolygon\bin\Debug\CreatePolygon.exe
+C:\Users\bcs2\Desktop\sc9537\C#\CreatePolygon\CreatePolygon\bin\Debug\CreatePolygon.pdb
+C:\Users\bcs2\Desktop\sc9537\C#\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.csprojResolveAssemblyReference.cache
+C:\Users\bcs2\Desktop\sc9537\C#\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.Form1.resources
+C:\Users\bcs2\Desktop\sc9537\C#\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.Properties.Resources.resources
+C:\Users\bcs2\Desktop\sc9537\C#\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.csproj.GenerateResource.Cache
+C:\Users\bcs2\Desktop\sc9537\C#\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.exe
+C:\Users\bcs2\Desktop\sc9537\C#\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.pdb
+D:\Documents\Projects\Visual_Studio\CreatePolygon\CreatePolygon\bin\Debug\CreatePolygon.exe.config
+D:\Documents\Projects\Visual_Studio\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.exe
+D:\Documents\Projects\Visual_Studio\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.pdb
+D:\Documents\Projects\Visual_Studio\CreatePolygon\CreatePolygon\bin\Debug\CreatePolygon.exe
+D:\Documents\Projects\Visual_Studio\CreatePolygon\CreatePolygon\bin\Debug\CreatePolygon.pdb
+D:\Documents\Projects\Visual_Studio\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\Visual_Studio\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.Form1.resources
+D:\Documents\Projects\Visual_Studio\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.Properties.Resources.resources
+D:\Documents\Projects\Visual_Studio\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.csproj.GenerateResource.Cache
+D:\Documents\Projects\Visual Studio\CreatePolygon\CreatePolygon\bin\Debug\CreatePolygon.exe.config
+D:\Documents\Projects\Visual Studio\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.exe
+D:\Documents\Projects\Visual Studio\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.pdb
+D:\Documents\Projects\Visual Studio\CreatePolygon\CreatePolygon\bin\Debug\CreatePolygon.exe
+D:\Documents\Projects\Visual Studio\CreatePolygon\CreatePolygon\bin\Debug\CreatePolygon.pdb
+D:\Documents\Projects\Visual Studio\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.Form1.resources
+D:\Documents\Projects\Visual Studio\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.Properties.Resources.resources
+D:\Documents\Projects\Visual Studio\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.csproj.GenerateResource.Cache
+D:\Developing\Visual Studio\CreatePolygon\CreatePolygon\bin\Debug\CreatePolygon.exe.config
+D:\Developing\Visual Studio\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.exe
+D:\Developing\Visual Studio\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.pdb
+D:\Developing\Visual Studio\CreatePolygon\CreatePolygon\bin\Debug\CreatePolygon.exe
+D:\Developing\Visual Studio\CreatePolygon\CreatePolygon\bin\Debug\CreatePolygon.pdb
+D:\Developing\Visual Studio\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.csprojResolveAssemblyReference.cache
+D:\Developing\Visual Studio\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.Form1.resources
+D:\Developing\Visual Studio\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.Properties.Resources.resources
+D:\Developing\Visual Studio\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.csproj.GenerateResource.Cache
+D:\Developing\VisualStudio\Lectures\Graphics\CreatePolygon\CreatePolygon\bin\Debug\CreatePolygon.exe.config
+D:\Developing\VisualStudio\Lectures\Graphics\CreatePolygon\CreatePolygon\bin\Debug\CreatePolygon.exe
+D:\Developing\VisualStudio\Lectures\Graphics\CreatePolygon\CreatePolygon\bin\Debug\CreatePolygon.pdb
+D:\Developing\VisualStudio\Lectures\Graphics\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.csprojResolveAssemblyReference.cache
+D:\Developing\VisualStudio\Lectures\Graphics\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.Form1.resources
+D:\Developing\VisualStudio\Lectures\Graphics\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.Properties.Resources.resources
+D:\Developing\VisualStudio\Lectures\Graphics\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.csproj.GenerateResource.Cache
+D:\Developing\VisualStudio\Lectures\Graphics\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.csproj.CoreCompileInputs.cache
+D:\Developing\VisualStudio\Lectures\Graphics\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.exe
+D:\Developing\VisualStudio\Lectures\Graphics\CreatePolygon\CreatePolygon\obj\Debug\CreatePolygon.pdb
